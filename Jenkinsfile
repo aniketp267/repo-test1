@@ -5,7 +5,7 @@
                     label {
                          
                          label "slave-1"
-                         customworkspace "/mnt/pipeline"
+                         customWorkspace "/mnt/pipeline"
                                  }   
   
                            }
